@@ -1,0 +1,22 @@
+{
+    "name": "jotapegue/filter-pipeline",
+    "description": "Filter data eloquent using pipeline and request http",
+    "type": "library",
+    "require-dev": {
+        "orchestra/testbench": "6.x-dev"
+    },
+    "license": "lice",
+    "autoload": {
+        "psr-4": {
+            "Jotapegue\\FilterPipeline\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Pedro Garcia",
+            "email": "jotapegue09@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
