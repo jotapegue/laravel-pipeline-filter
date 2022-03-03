@@ -1,5 +1,5 @@
 {
-    "name": "jotapegue/filter-pipeline",
+    "name": "jotapegue/laravel-filter-pipeline",
     "description": "Filter data eloquent using pipeline and request http",
     "type": "library",
     "require-dev": {
