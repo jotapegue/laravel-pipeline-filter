@@ -5,7 +5,7 @@
     "require-dev": {
         "orchestra/testbench": "6.x-dev"
     },
-    "license": "lice",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Jotapegue\\FilterPipeline\\": "src/"
